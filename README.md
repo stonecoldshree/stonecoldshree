@@ -42,7 +42,7 @@ My core skills lie in **Java with Data Structures & Algorithms (DSA)** for robus
 
 Connect with me—I'd love to hear from you!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sujal-shree-07589a257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-shree-07589a257/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreesujal1405@gmail.com)
 
 ---

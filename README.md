@@ -1,8 +1,8 @@
-# Hi there, I'm Sujal Shree 👋
+# Hello Everyone, I'm Sujal Shree 👋
 
-I'm a versatile and passionate developer with a dual focus on backend logic and modern web technologies. I enjoy solving complex problems and building seamless user experiences.
+I'm currently a last year CSE student with a dual learning focus on backend logic and modern web technologies. I enjoy solving complex problems and building seamless user experiences.
 
-My core skills lie in **Java with Data Structures & Algorithms (DSA)** for robust problem-solving, and I am actively developing full-stack applications using the **MERN (MongoDB, Express.js, React, Node.js)** stack.
+My area of learning currently includes:- **Java with Data Structures & Algorithms (DSA)** for robust problem-solving, and I am actively learning how to develop full-stack applications using the **MERN (MongoDB, Express.js, React, Node.js)** stack.
 
 🚀 I'm looking for opportunities to contribute to challenging projects and grow as both a back-end and front-end developer.
 
@@ -11,7 +11,7 @@ My core skills lie in **Java with Data Structures & Algorithms (DSA)** for robus
 ## 🚀 About Me
 
 * 🌱 I’m currently strengthening my foundation in **Java** and **DSA**.
-* 🌐 I build full-stack projects using **MongoDB, Express.js, React, and Node.js**.
+* 🌐 I'm currently learning to build full-stack projects using **MongoDB, Express.js, React, and Node.js**.
 * 🔮 My future goals are to dive into:
     * Mobile development with **Android**.
     * Enterprise-level backend systems with **Spring Boot**.
